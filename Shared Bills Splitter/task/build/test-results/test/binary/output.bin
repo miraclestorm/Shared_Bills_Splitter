@@ -1,0 +1,13 @@
+[1;31m
+Start test 1[0m
+> exit
+[1;31m
+Start test 2[0m
+> someRandomText
+3Unknown command. Print help to show commands list
+> exit
+[1;31m
+Start test 3[0m
+> repay Ann
+Invalid command argument
+> exit

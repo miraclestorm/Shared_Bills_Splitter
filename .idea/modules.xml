@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shared_Bills_Splitter.iml" filepath="$PROJECT_DIR$/.idea/modules/Shared_Bills_Splitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shared Bills Splitter/task/Shared_Bills_Splitter.Shared_Bills_Splitter-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Shared Bills Splitter/task/Shared_Bills_Splitter.Shared_Bills_Splitter-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shared Bills Splitter/task/Shared_Bills_Splitter.Shared_Bills_Splitter-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Shared Bills Splitter/task/Shared_Bills_Splitter.Shared_Bills_Splitter-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Shared Bills Splitter/task/Shared_Bills_Splitter.Shared_Bills_Splitter-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Shared Bills Splitter/task/Shared_Bills_Splitter.Shared_Bills_Splitter-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Shared_Bills_Splitter.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Shared_Bills_Splitter.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Shared_Bills_Splitter.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Shared_Bills_Splitter.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Shared_Bills_Splitter.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Shared_Bills_Splitter.util.test.iml" />
+    </modules>
+  </component>
+</project>
